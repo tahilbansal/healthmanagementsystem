@@ -39,6 +39,7 @@ if (client ==1) :
             a = f.read()
             print(a)
             f.close()
+# Same code for 3 persons 
 
 
 
